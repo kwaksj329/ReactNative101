@@ -19,3 +19,11 @@ expo init my-project
 brew update
 brew install watchman
 ```
+
+![rn-work](https://velog.velcdn.com/images/seoltang/post/845d144d-68c4-4d7b-be2c-d210cdd3075e/image.png)
+
+### 1.5 How Does React Native Work
+
+![react-native-work](https://atomate.net/wp-content/uploads/2018/11/image1.jpg)
+
+![rn-workflow](https://media.geeksforgeeks.org/wp-content/uploads/20210713140554/GFG.png)
