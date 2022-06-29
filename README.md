@@ -27,3 +27,5 @@ brew install watchman
 ![react-native-work](https://atomate.net/wp-content/uploads/2018/11/image1.jpg)
 
 ![rn-workflow](https://media.geeksforgeeks.org/wp-content/uploads/20210713140554/GFG.png)
+
+### 1.6 Creating The App
