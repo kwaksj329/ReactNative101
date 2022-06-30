@@ -42,3 +42,9 @@ brew install watchman
   - const styles에 바로 스타일 넣어도 됨 (자동완성 적용 안됨)
 
 ### 2.2 React Native Packages
+
+### 2.3 Third Party Packages
+
+- Expo SDK: API & component 제공
+
+### 2.4 Layout System
