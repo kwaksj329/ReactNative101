@@ -1,6 +1,6 @@
 # ReactNative101
 
-## Introduction
+## 1.0 Introduction
 
 ### 1.4 Installing Requirements
 
@@ -29,3 +29,16 @@ brew install watchman
 ![rn-workflow](https://media.geeksforgeeks.org/wp-content/uploads/20210713140554/GFG.png)
 
 ### 1.6 Creating The App
+
+### 1.7 Recap
+
+## 2.0 WEATHER APP
+
+### 2.1 The Rules of Native
+
+- View: container (항상 Import 하기)
+- Text: text component
+- 스타일 적용: StyleSheet.create() 사용 (자동완성 기능 사용 가능)
+  - const styles에 바로 스타일 넣어도 됨 (자동완성 적용 안됨)
+
+### 2.2 React Native Packages
