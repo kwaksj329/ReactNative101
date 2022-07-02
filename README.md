@@ -48,3 +48,18 @@ brew install watchman
 - Expo SDK: API & component 제공
 
 ### 2.4 Layout System
+
+- Flexbox로 레이아웃 생성
+- Container View: 이미 Flex Container -> Flex size 부여 (비율)
+  - Flex인 부모 중요, flex size 없다면 자식들이 어떤 것의 n배인지 모름
+- Flex Direction 기본값: column
+- 레이아웃에는 width, height 사용 금지
+
+### 2.5 Styles
+
+```js
+#위 아래 센터
+justifyContent: "center",
+#왼 오 센터
+alignItems: "center",
+```
