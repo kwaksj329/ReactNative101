@@ -63,3 +63,16 @@ justifyContent: "center",
 #왼 오 센터
 alignItems: "center",
 ```
+
+### 2.6 Styles part Two
+
+- ScrollView
+  - horizontal 속성
+  - pagingEnabled 속성
+  - showsHorizontalScrollIndicator false 시 indicator 숨김
+  - contentContainerStyle 사용
+- Dimensions API: 화면 크기 얻을 수 있음
+
+```js
+const { height, width } = Dimensions.get("window");
+```
